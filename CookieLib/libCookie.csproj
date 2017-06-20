@@ -125,6 +125,7 @@
     <Compile Include="Handlers\Game\Context\Roleplay\Havenbag\GameContextRoleplayHavenbagHandlers.cs" />
     <Compile Include="Handlers\Game\Context\Roleplay\Houses\GameContextRoleplayHousesHandlers.cs" />
     <Compile Include="Handlers\Game\Context\Roleplay\Job\GameContextRoleplayJobHandlers.cs" />
+    <Compile Include="Handlers\Game\Context\Roleplay\Objects\GameContextRoleplayObjectsHandlers.cs" />
     <Compile Include="Handlers\Game\Context\Roleplay\Paddock\GameContextRoleplayPaddockHandlers.cs" />
     <Compile Include="Handlers\Game\Context\Roleplay\Quest\GameContextRoleplayQuestHandlers.cs" />
     <Compile Include="Handlers\Game\Dare\GameDareHandlers.cs" />
@@ -1870,7 +1871,6 @@
     <Compile Include="Utils\Cryptography\RSA.cs" />
     <Compile Include="Utils\Enums\CharacterStatus.cs" />
     <Compile Include="Utils\Enums\LogMessageType.cs" />
-    <Compile Include="Utils\Enums\ServerNameEnum.cs" />
     <Compile Include="Utils\Extensions\ArrayExtension.cs" />
     <Compile Include="Utils\Extensions\CollectionExtensions.cs" />
     <Compile Include="Utils\Extensions\DateExtensions.cs" />
