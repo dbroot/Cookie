@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libCookie", "CookieLib\libCookie.csproj", "{4F17E713-54B7-4474-892E-0C3CF1473534}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CookieGui", "CookieGui\CookieGui.csproj", "{8252A334-E0F4-4703-BA7A-378C54A928A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F17E713-54B7-4474-892E-0C3CF1473534}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F17E713-54B7-4474-892E-0C3CF1473534}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F17E713-54B7-4474-892E-0C3CF1473534}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F17E713-54B7-4474-892E-0C3CF1473534}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8252A334-E0F4-4703-BA7A-378C54A928A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8252A334-E0F4-4703-BA7A-378C54A928A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8252A334-E0F4-4703-BA7A-378C54A928A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8252A334-E0F4-4703-BA7A-378C54A928A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
